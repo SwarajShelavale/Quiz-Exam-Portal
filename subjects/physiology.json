@@ -1,0 +1,290 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "question": "What is my name",
+            "correct_answer": "Swaraj",
+            "incorrect_answers": [
+                "Abhit",
+                "Vikram,",
+                "Dhruvi"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "question": "What is my name",
+            "correct_answer": "Swaraj",
+            "incorrect_answers": [
+                "Abhit",
+                "Vikram,",
+                "Dhruvi"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "question": "What is my name",
+            "correct_answer": "Swaraj",
+            "incorrect_answers": [
+                "Abhit",
+                "Vikram,",
+                "Dhruvi"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "question": "What is my name",
+            "correct_answer": "Swaraj",
+            "incorrect_answers": [
+                "Abhit",
+                "Vikram,",
+                "Dhruvi"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "question": "What is my name",
+            "correct_answer": "Swaraj",
+            "incorrect_answers": [
+                "Abhit",
+                "Vikram,",
+                "Dhruvi"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "केषु प्राणिषु प्लास्मा मेम्ब्रेन का आवेशितं रक्तं पाषाणिषु पाषाणस्य सम्मिश्रितं करोति?",
+            "correct_answer": "किड्नियों",
+            "incorrect_answers": [
+                "हृदये",
+                "लीवरे",
+                "फेफड़ों"
+            ]
+        },
+
+
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य प्रकारस्य जीवनुका भृण्गाणां मधुना निर्मितं भोजनं भवति?",
+            "correct_answer": "नेक्टर",
+            "incorrect_answers": [
+                "पोलिन",
+                "रेसिन",
+                "गुम"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य कणस्य द्वारकं उदकस्य प्रवेशयितुं अयोग्यं भवति?",
+            "correct_answer": "नासिकायाः",
+            "incorrect_answers": [
+                "नेत्रकणस्य",
+                "मुखकणस्य",
+                "कानकणस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "किमर्थम् वनस्पतिकोणे पुष्पं विकसितं भवति?",
+            "correct_answer": "प्रजननार्थं",
+            "incorrect_answers": [
+                "बीजार्थं",
+                "अङ्कुरार्थं",
+                "भक्ष्यार्थं"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य कणस्य द्वारकं वक्त्रेण प्रवेशयितुं शक्यं भवति?",
+            "correct_answer": "मुखकणस्य",
+            "incorrect_answers": [
+                "कानकणस्य",
+                "नेत्रकणस्य",
+                "नासिकायाः"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "पादपकोणे कतिविधा नामानि सन्ति?",
+            "correct_answer": "द्वयः",
+            "incorrect_answers": [
+                "एकः",
+                "त्रयः",
+                "चत्वारः"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य कणस्य द्वारकं नासिकया प्रवेशयितुं शक्यं भवति?",
+            "correct_answer": "कानकणस्य",
+            "incorrect_answers": [
+                "मुखकणस्य",
+                "नेत्रकणस्य",
+                "नासिकायाः"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "पुष्पाणां विविधे रूपे किम् अभिन्नं भवति?",
+            "correct_answer": "पुष्पस्य",
+            "incorrect_answers": [
+                "पर्णस्य",
+                "फलस्य",
+                "अङ्कुरस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "वनस्पतिकोणस्य पुष्पं कस्य गुणे एकं जानाति?",
+            "correct_answer": "वनस्पतेः",
+            "incorrect_answers": [
+                "पुष्पस्य",
+                "अङ्कुरस्य",
+                "फलस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य कणस्य द्वारकं चक्षुषा प्रवेशयितुं साध्यं भवति?",
+            "correct_answer": "अद्धवाणिकणस्य",
+            "incorrect_answers": [
+                "नत्रकणस्य",
+                "कानकणस्य",
+                "मुखकणस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य कोणस्य द्वारकं अयोग्यं भवति?",
+            "correct_answer": "यामुनाकोणस्य",
+            "incorrect_answers": [
+                "आदमांडलकोणस्य",
+                "ज्योतिष्कोणस्य",
+                "लोवकोणस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "वनस्पतिकोणस्य केयूकं कस्य विकसितं भवति?",
+            "correct_answer": "बीजार्थं",
+            "incorrect_answers": [
+                "अङ्कुरार्थं",
+                "प्रजननार्थं",
+                "भक्ष्यार्थं"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "नेत्रकणाः कस्य भागे स्थितं भवन्ति?",
+            "correct_answer": "मुखे",
+            "incorrect_answers": [
+                "शीर्षके",
+                "शरीरे",
+                "कणस्थले"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य द्वारकं आहारसंरक्षणाय उपयुञ्जन्ते?",
+            "correct_answer": "मित्रकोणस्य",
+            "incorrect_answers": [
+                "नेत्रकोणस्य",
+                "पालकोणस्य",
+                "अन्नकोणस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य अन्धकारात् विद्युत् उत्पन्नं भवति?",
+            "correct_answer": "बिजली",
+            "incorrect_answers": [
+                "कणप्रदीपस्य",
+                "सूर्यस्य",
+                "प्रकाशकणस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य कोणस्य अधिकं अपनेष्यामि, इत्यत्र किम्?",
+            "correct_answer": "अनुभागकोणस्य",
+            "incorrect_answers": [
+                "लोवकोणस्य",
+                "लोवकोणस्य",
+                "संपूरककोणस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "अधिकाधिकं कोणः पुष्पाणां अङ्कुरे वर्धते?",
+            "correct_answer": "द्वयं",
+            "incorrect_answers": [
+                "प्रत्येके एकः",
+                "त्रयः",
+                "चत्वारः"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कस्य पात्रस्य उपयोगं अधिकं होति जिसे उच्चतमंसी दूषणं बचान्ति?",
+            "correct_answer": "स्थलकाकायस्य",
+            "incorrect_answers": [
+                "प्लास्टिक्कस्य",
+                "कागदस्य",
+                "धातुमयस्य"
+            ]
+        },
+        {
+            "category": "Medical",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "कुट्टिकायाः केयूकं प्रमुक्तं भवति?",
+            "correct_answer": "बीजं",
+            "incorrect_answers": [
+                "पुष्पं",
+                "पत्रं",
+                "फलम्"
+            ]
+        }
+    ]
+}
